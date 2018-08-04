@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lotto</string>
+    <string name="guessed_numbers">Guessed numbers</string>
+    <string name="lottery_number">Lottery number</string>
+    <string name="additional_number">Additional number</string>
+    <string name="check_resutls">Check Results</string>
+    <string name="clear_guess">Clear Guess</string>
+</resources>
